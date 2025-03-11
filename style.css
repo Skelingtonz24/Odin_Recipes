@@ -21,10 +21,12 @@
 
 .main {
     text-align: center;
+    font-size: 20px;
 }
 
-.title.list {
+#list{
     align-self: left;
+    font-size: 22px;
 }
 
 #return {
