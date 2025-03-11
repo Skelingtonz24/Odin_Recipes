@@ -1,3 +1,17 @@
 * {
     background-color: rgb(112, 227, 162);
 }
+
+.title{
+    font-size: 100px;
+    text-align: center;
+}
+
+#section {
+    font-size: 30px;
+    text-align: center;
+}
+
+.title.list {
+    align-self: left;
+}
