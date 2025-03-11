@@ -2,6 +2,13 @@
     background-color: rgb(112, 227, 162);
 }
 
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .title{
     font-size: 100px;
     text-align: center;
@@ -12,6 +19,14 @@
     text-align: center;
 }
 
+.main {
+    text-align: center;
+}
+
 .title.list {
     align-self: left;
+}
+
+#return {
+    font-size: 40px;
 }
